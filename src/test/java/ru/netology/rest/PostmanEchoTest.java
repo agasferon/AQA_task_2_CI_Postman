@@ -14,7 +14,7 @@ class PostmanEchoTest {
                 .post("/post")
                 .then()
                 .statusCode(200)
-                .body("data", equalTo("id:100500"));
+                .body("data", equalTo("random text"));
     }
 
 }

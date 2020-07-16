@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/1qhif1s091f8wb2i?svg=true)](https://ci.appveyor.com/project/agasferon/aqa-task-2-ci-postman)
